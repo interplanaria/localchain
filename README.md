@@ -246,16 +246,16 @@ chain.on("alice", (e) => {
   console.log("alice event", e)
 })
 chain.on("bob", (e) => {
-  console.log("alice event", e)
+  console.log("bob event", e)
 })
 chain.on("carol", (e) => {
-  console.log("alice event", e)
+  console.log("carol event", e)
 })
 chain.on("dave", (e) => {
-  console.log("alice event", e)
+  console.log("dave event", e)
 })
 chain.on("eve", (e) => {
-  console.log("alice event", e)
+  console.log("eve event", e)
 })
 ```
 
