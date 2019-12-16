@@ -1,6 +1,6 @@
 # localchain
 
-> Dead simple offchain bitcoin transaction ledger
+> Dead simple offchain bitcoin transaction ledger.
 
 ![localchain](localchain_preview.png)
 
